@@ -1,5 +1,5 @@
 function sayHello() {
-	console.log('Привет, мир!');
+	console.log('feature/hw_1 захватил мир!');
 }
 
 sayHello();
